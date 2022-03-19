@@ -1,0 +1,21 @@
+{
+    "formatVersion": 1,
+    "libraries": [
+        {
+            "name": "net.fabricmc:intermediary:b1.7.3",
+            "MMC-hint": "local"
+        }
+    ],
+    "name": "Intermediary Mappings",
+    "releaseTime": "2021-07-06T14:03:10+00:00",
+    "requires": [
+        {
+            "equals": "b1.7.3",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "release",
+    "uid": "net.fabricmc.intermediary",
+    "version": "b1.7.3",
+    "volatile": true
+}

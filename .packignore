@@ -1,0 +1,5 @@
+.git/*
+.gitignore
+.minecraft/*
+README.md
+pack.sh

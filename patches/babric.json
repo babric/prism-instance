@@ -1,0 +1,39 @@
+{
+    "formatVersion": 1,
+    "name": "Babric",
+    "uid": "babric",
+    "version": "b1.7.3",
+    "minecraftArguments": "--username ${auth_player_name} --session ${auth_session} --gameDir ${game_directory} --assetsDir ${game_assets}",
+    "+traits": [
+        "noapplet"
+    ],
+    "libraries": [
+        {
+            "name": "org.slf4j:slf4j-api:1.8.0-beta4"
+        },
+        {
+            "name": "org.apache.logging.log4j:log4j-slf4j18-impl:2.16.0"
+        },
+        {
+            "name": "org.apache.logging.log4j:log4j-api:2.16.0"
+        },
+        {
+            "name": "org.apache.logging.log4j:log4j-core:2.16.0"
+        },
+        {
+            "name": "com.google.code.gson:gson:2.8.9"
+        },
+        {
+            "name": "com.google.guava:guava:31.0.1-jre"
+        },
+        {
+            "name": "org.apache.commons:commons-lang3:3.12.0"
+        },
+        {
+            "name": "commons-io:commons-io:2.11.0"
+        },
+        {
+            "name": "commons-codec:commons-codec:1.15"
+        }
+    ]
+}

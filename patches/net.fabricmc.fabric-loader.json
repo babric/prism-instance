@@ -1,0 +1,56 @@
+{
+    "formatVersion": 1,
+    "libraries": [
+        {
+            "name": "net.fabricmc:tiny-mappings-parser:0.3.0+build.17",
+            "url": "https://maven.fabricmc.net/"
+        },
+        {
+            "name": "net.fabricmc:sponge-mixin:0.11.2+mixin.0.8.5",
+            "url": "https://maven.fabricmc.net/"
+        },
+        {
+            "name": "com.github.FabricMC:tiny-remapper:a23ab94b73",
+            "url": "https://jitpack.io/"
+        },
+        {
+            "name": "net.fabricmc:access-widener:2.1.0",
+            "url": "https://maven.fabricmc.net/"
+        },
+        {
+            "name": "org.ow2.asm:asm:9.2",
+            "url": "https://maven.fabricmc.net/"
+        },
+        {
+            "name": "org.ow2.asm:asm-analysis:9.2",
+            "url": "https://maven.fabricmc.net/"
+        },
+        {
+            "name": "org.ow2.asm:asm-commons:9.2",
+            "url": "https://maven.fabricmc.net/"
+        },
+        {
+            "name": "org.ow2.asm:asm-tree:9.2",
+            "url": "https://maven.fabricmc.net/"
+        },
+        {
+            "name": "org.ow2.asm:asm-util:9.2",
+            "url": "https://maven.fabricmc.net/"
+        },
+        {
+            "name": "com.github.babric:fabric-loader:3ae956721e",
+            "url": "https://jitpack.io/"
+        }
+    ],
+    "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
+    "name": "Fabric Loader",
+    "releaseTime": "2022-02-21T12:27:46+00:00",
+    "requires": [
+        {
+            "uid": "net.fabricmc.intermediary"
+        }
+    ],
+    "type": "release",
+    "uid": "net.fabricmc.fabric-loader",
+    "version": "0.13.3"
+}
