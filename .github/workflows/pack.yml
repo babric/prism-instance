@@ -1,0 +1,13 @@
+name: Pack
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v1
+      - run: ./pack.sh
+      - name: Upload artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: babric b1.7.3.zip.zip
+          path: ./babric b1.7.3.zip

@@ -10,8 +10,8 @@
             "url": "https://maven.fabricmc.net/"
         },
         {
-            "name": "com.github.FabricMC:tiny-remapper:a23ab94b73",
-            "url": "https://jitpack.io/"
+            "name": "babric:tiny-remapper:0.8.1",
+            "url": "https://maven.glass-launcher.net/babric"
         },
         {
             "name": "net.fabricmc:access-widener:2.1.0",
@@ -38,16 +38,16 @@
             "url": "https://maven.fabricmc.net/"
         },
         {
-            "name": "com.github.babric:fabric-loader:3ae956721e",
-            "url": "https://jitpack.io/"
+            "name": "babric:fabric-loader:0.13.3-babric.1",
+            "url": "https://maven.glass-launcher.net/babric"
         }
     ],
     "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
     "name": "Fabric Loader",
-    "releaseTime": "2022-02-21T12:27:46+00:00",
+    "releaseTime": "2022-03-20T00:31:28.800Z",
     "requires": [
         {
-            "uid": "net.fabricmc.intermediary"
+            "uid": "babric.intermediary"
         }
     ],
     "type": "release",

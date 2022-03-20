@@ -37,14 +37,14 @@
             "cachedVersion": "b1.7.3",
             "cachedVolatile": true,
             "dependencyOnly": true,
-            "uid": "net.fabricmc.intermediary",
+            "uid": "babric.intermediary",
             "version": "b1.7.3"
         },
         {
             "cachedName": "Fabric Loader",
             "cachedRequires": [
                 {
-                    "uid": "net.fabricmc.intermediary"
+                    "uid": "babric.intermediary"
                 }
             ],
             "cachedVersion": "0.13.3",
