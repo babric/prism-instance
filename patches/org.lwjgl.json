@@ -60,7 +60,7 @@
                 ]
             },
             "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.4-babric.1",
-            "url": "https://maven.glass-launcher.net/releases/",
+            "url": "https://maven.glass-launcher.net/babric/",
             "natives": {
                 "linux": "natives-linux",
                 "osx": "natives-osx",
@@ -69,11 +69,11 @@
         },
         {
             "name": "org.lwjgl.lwjgl:lwjgl:2.9.4-babric.1",
-            "url": "https://maven.glass-launcher.net/releases/"
+            "url": "https://maven.glass-launcher.net/babric/"
         },
         {
             "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.4-babric.1",
-            "url": "https://maven.glass-launcher.net/releases/"
+            "url": "https://maven.glass-launcher.net/babric/"
         }
     ],
     "name": "LWJGL 2",
