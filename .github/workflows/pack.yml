@@ -9,5 +9,5 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-artifact@v2
         with:
-          name: babric b1.7.3
+          name: babric b1.7.3.zip
           path: ./babric b1.7.3.zip
