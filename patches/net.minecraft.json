@@ -28,7 +28,7 @@
     "releaseTime": "2011-07-08T00:00:00+02:00",
     "requires": [
         {
-            "suggests": "2.9.4-nightly-20150209",
+            "suggests": "2.9.4-babric.1",
             "uid": "org.lwjgl"
         }
     ],
