@@ -6,7 +6,7 @@
             "cachedVolatile": true,
             "dependencyOnly": true,
             "uid": "org.lwjgl",
-            "version": "2.9.4-nightly-20150209"
+            "version": "2.9.4-babric.1"
         },
         {
             "cachedName": "Minecraft",
@@ -47,9 +47,9 @@
                     "uid": "babric.intermediary"
                 }
             ],
-            "cachedVersion": "0.13.3",
+            "cachedVersion": "0.15.6-babric.2",
             "uid": "net.fabricmc.fabric-loader",
-            "version": "0.13.3"
+            "version": "0.15.6-babric.2"
         }
     ],
     "formatVersion": 1
