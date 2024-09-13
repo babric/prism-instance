@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "libraries": [
         {
-            "name": "babric:intermediary:b1.7.3",
+            "name": "babric:intermediary-upstream:b1.7.3",
             "url": "https://maven.glass-launcher.net/babric"
         }
     ],
@@ -15,7 +15,7 @@
         }
     ],
     "type": "release",
-    "uid": "babric.intermediary",
+    "uid": "net.fabricmc.intermediary",
     "version": "b1.7.3",
     "volatile": true
 }
