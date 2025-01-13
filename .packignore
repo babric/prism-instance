@@ -1,5 +1,7 @@
 .git/*
-.gitignore
+.github/*
 .minecraft/*
+.idea/*
+.gitignore
 README.md
 pack.sh

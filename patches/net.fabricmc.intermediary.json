@@ -2,12 +2,12 @@
     "formatVersion": 1,
     "libraries": [
         {
-            "name": "babric:intermediary:b1.7.3",
+            "name": "babric:intermediary-upstream:b1.7.3",
             "url": "https://maven.glass-launcher.net/babric"
         }
     ],
     "name": "Intermediary Mappings",
-    "releaseTime": "2022-03-20T00:31:28.800Z",
+    "releaseTime": "2024-10-18T18:57:03.000Z",
     "requires": [
         {
             "equals": "b1.7.3",
@@ -15,7 +15,7 @@
         }
     ],
     "type": "release",
-    "uid": "babric.intermediary",
+    "uid": "net.fabricmc.intermediary",
     "version": "b1.7.3",
     "volatile": true
 }

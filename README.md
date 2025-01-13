@@ -1,7 +1,7 @@
 Instance with b1.7.3 babric included for [PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) (should work on MultiMC aswell)
 
 # Usage
-1. Go to [releases](https://github.com/babric/prism-instance/releases)
+1. Go to [releases](https://github.com/Glass-Series/babric-prism-instance/releases)
 2. Drag and drop the download link into your PrismLauncher
 3. Pick the name and click OK!
 
