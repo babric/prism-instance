@@ -77,7 +77,7 @@
                     "META-INF/"
                 ]
             },
-            "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.4+legacyfabric.9",
+            "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.4+legacyfabric.15",
             "url": "https://maven.legacyfabric.net/",
             "natives": {
                 "linux": "natives-linux",
@@ -89,17 +89,17 @@
             }
         },
         {
-            "name": "org.lwjgl.lwjgl:lwjgl:2.9.4+legacyfabric.9",
+            "name": "org.lwjgl.lwjgl:lwjgl:2.9.4+legacyfabric.15",
             "url": "https://maven.legacyfabric.net/"
         },
         {
-            "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.4+legacyfabric.9",
+            "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.4+legacyfabric.15",
             "url": "https://maven.legacyfabric.net/"
         }
     ],
     "name": "LWJGL 2",
     "type": "release",
     "uid": "org.lwjgl",
-    "version": "2.9.4+legacyfabric.9",
+    "version": "2.9.4+legacyfabric.15",
     "volatile": true
 }

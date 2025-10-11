@@ -2,17 +2,17 @@
     "components": [
         {
             "cachedName": "LWJGL 2",
-            "cachedVersion": "2.9.4+legacyfabric.9",
+            "cachedVersion": "2.9.4+legacyfabric.15",
             "cachedVolatile": true,
             "dependencyOnly": true,
             "uid": "org.lwjgl",
-            "version": "2.9.4+legacyfabric.9"
+            "version": "2.9.4+legacyfabric.15"
         },
         {
             "cachedName": "Minecraft",
             "cachedRequires": [
                 {
-                    "suggests": "2.9.4+legacyfabric.9",
+                    "suggests": "2.9.4+legacyfabric.15",
                     "uid": "org.lwjgl"
                 }
             ],
