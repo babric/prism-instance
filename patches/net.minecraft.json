@@ -31,7 +31,7 @@
     "releaseTime": "2011-07-08T00:00:00+02:00",
     "requires": [
         {
-            "suggests": "2.9.4+legacyfabric.9",
+            "suggests": "2.9.4+legacyfabric.15",
             "uid": "org.lwjgl"
         }
     ],
