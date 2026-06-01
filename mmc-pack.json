@@ -12,7 +12,7 @@
             "cachedName": "Minecraft",
             "cachedRequires": [
                 {
-                    "suggests": "2.9.4+legacyfabric.15",
+                    "suggests": "2.9.4+legacyfabric.17",
                     "uid": "org.lwjgl"
                 }
             ],
