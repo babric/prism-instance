@@ -7,9 +7,6 @@
     "+traits": [
         "noapplet"
     ],
-    "compatibleJavaMajors": [
-        17
-    ],
     "libraries": [
         {
             "name": "babric:log4j-config:1.0.0",
